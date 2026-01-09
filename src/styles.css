@@ -1,0 +1,19 @@
+.traffic-light {
+  font-family: sans-serif;
+  text-align: center;
+  border: 1px solid black;
+  width: fit-content;
+  padding: 0.5rem;
+}
+
+.light {
+  height: 2rem;
+  width: 2rem;
+  margin: 0.5rem;
+  border-radius: 1rem;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
